@@ -1,0 +1,4 @@
+// Clear any bad flags injected from CocoaPods
+OTHER_CFLAGS = $(inherited)
+OTHER_CPLUSPLUSFLAGS = $(inherited)
+MACOSX_DEPLOYMENT_TARGET = 13.0
